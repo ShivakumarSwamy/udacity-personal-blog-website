@@ -1,5 +1,6 @@
 @import "./header.css";
 @import "./featured.css";
+@import "./latest.css";
 
 * {
   font: 16px helvetica, arial, sans-serif;
