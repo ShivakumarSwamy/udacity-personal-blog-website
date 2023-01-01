@@ -4,7 +4,7 @@
 
 .header-container {
   display: grid;
-  grid-template-columns: 2fr 2fr 0.5fr;
+  grid-template-columns: 2fr 2fr 0.3fr;
   grid-auto-rows: minmax(50px, auto);
   padding: 5px;
   padding-left: 10px;
@@ -32,8 +32,15 @@
   column-gap: 25px;
 }
 
+.header-item-subscribe-button {
+  background: #000;
+  border-radius: 10px;
+  border: 2px solid white;
+  padding: 5px;
+}
+
 .header-item-content {
-  color: #000;
+  color: #fff;
   font-size: 1.2em;
   text-decoration: none;
 }
