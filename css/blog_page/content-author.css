@@ -1,0 +1,46 @@
+
+.content-author-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 70%;
+  margin-left: 10%;
+}
+
+.content-author-header {
+  color: #000;
+  font-size: 1.5em;
+  font-family: arial, sans-serif;
+  margin: 10px;
+  margin-top: 25px;
+  text-align: end;
+}
+
+.content-author-avatar {
+  border-radius: 50px;
+  border: 1px solid black;
+  box-shadow: 10px 5px 5px #F3EFF9;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.content-author-text-common {
+  font-size: 1em;
+  font-style: italic;
+  color: #535651;
+  text-align: end;
+}
+
+.content-author-title-name {
+  margin: 5px;
+}
+
+.content-author-company-school {
+  margin: 5px;
+}
+
+.content-author-short-bio {
+  margin: 5px;
+}
