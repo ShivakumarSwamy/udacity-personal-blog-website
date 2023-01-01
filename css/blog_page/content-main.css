@@ -5,10 +5,12 @@
   gap: 5px;
 }
 
+
 .content-main-container {
   display: flex;
   flex-direction: column;
 }
+
 
 .content-main-title {
   color: #000;
@@ -18,6 +20,7 @@
   margin-top: 25px;
 }
 
+
 .content-main-summary {
   font-size: 1em;
   font-style: italic;
@@ -25,6 +28,7 @@
   margin-bottom: 15px;
   text-align: justify;
 }
+
 
 .content-main-description {
   font-size: 1em;

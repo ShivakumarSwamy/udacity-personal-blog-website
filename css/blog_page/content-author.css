@@ -1,4 +1,3 @@
-
 .content-author-container {
   display: flex;
   flex-direction: column;
@@ -6,6 +5,7 @@
   width: 70%;
   margin-left: 10%;
 }
+
 
 .content-author-header {
   color: #000;
@@ -15,6 +15,7 @@
   margin-top: 25px;
   text-align: end;
 }
+
 
 .content-author-avatar {
   border-radius: 50px;
@@ -26,6 +27,7 @@
   margin: 10px;
 }
 
+
 .content-author-text-common {
   font-size: 1em;
   font-style: italic;
@@ -33,13 +35,16 @@
   text-align: end;
 }
 
+
 .content-author-title-name {
   margin: 5px;
 }
 
+
 .content-author-company-school {
   margin: 5px;
 }
+
 
 .content-author-short-bio {
   margin: 5px;
