@@ -30,6 +30,19 @@
 }
 
 
+.content-main-image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.content-main-image-dimension {
+  width: 100%;
+  height: 100%;
+}
+
+
 .content-main-description {
   font-size: 1em;
   color: #292B28;
