@@ -37,6 +37,11 @@
   text-align: justify;
 }
 
+.content-main-quote {
+  font-size: 1.1em;
+  border-left: 1px solid grey;
+  padding: 10px;
+}
 
 .content-main-social-sharing-container {
   display: flex;
